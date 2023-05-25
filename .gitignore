@@ -1,0 +1,8 @@
+# output & dependencies
+/dist
+/build
+/node_modules
+
+# ide
+/.idea
+/.vscode
